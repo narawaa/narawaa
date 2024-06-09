@@ -1,5 +1,3 @@
-Readme
-GIthub
 <h1 align="center">Hi 👋, I'm Nashwa Ghania</h1>
 <h3 align="center">An enthusiastic frontend developer</h3><br/>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/uiux-design-purple-background-web-development-creating-website-user-interface-front-view-web-building-seo-optimization-marketing-coding-web-design-3d-render-illustration-cartoon-minimal_473922-1035.jpg">
